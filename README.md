@@ -10,7 +10,6 @@
 
 🛠️ 사용한 기술
 
-🚀 실행 방법
 
 📄 자료 및 문제
 
@@ -43,16 +42,6 @@ MySQL을 사용하여 기본 SQL 쿼리부터 시작해, 제약조건, 데이터
   <li><b>MySQL Workbench:</b> ERD 설계 및 데이터베이스 관리 도구</li> <br>
   <li><b>SQL:</b> 데이터 쿼리 및 관리 언어</li>
 </ul>
-<h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🚀 실행 방법</h2>
-MySQL과 MySQL Workbench를 설치합니다.
-
-이 저장소를 클론합니다
-bash
-코드 복사
-git clone https://github.com/SeoHong23/database.git
-SQL 파일을 MySQL Workbench에서 열고 실행합니다.
-
-ERD 파일 (.mwb)은 MySQL Workbench에서 열어 확인할 수 있습니다.
 
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">📄 자료 및 문제</h2>
 
