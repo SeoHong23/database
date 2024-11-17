@@ -17,7 +17,7 @@ MySQL과 MySQL Workbench를 설치합니다.
 이 저장소를 클론합니다:
 bash
 코드 복사
-git clone https://github.com/yourusername/database-study.git
+git clone https://github.com/SeoHong23/database.git
 SQL 파일을 MySQL Workbench에서 열고 실행합니다.
 ERD 파일 (.mwb)은 MySQL Workbench에서 열어 확인할 수 있습니다.
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">📄 자료 및 문제</h2> <ul style="font-size: 1.2em; line-height: 1.6;"> <li><b>ERD 파일:</b> 다양한 데이터베이스 모델링 예제 (`BankERD.mwb`, `CollegeERD.mwb` 등)</li> <li><b>SQL 실습 파일:</b> 챕터별 SQL 실습 파일 및 연습문제</li> <li><b>정규화 예제:</b> `BookOrderERD` 파일을 통해 2정규화, 3정규화 실습 가능</li> </ul>
