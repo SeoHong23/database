@@ -57,12 +57,16 @@ MySQL을 사용하여 기본 SQL 쿼리부터 시작해, 제약조건, 데이터
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">🤝 기여 방법</h2>
 
 
-이 프로젝트는 학습 목적으로 만들어졌습니다. Pull Request나 Issue를 통해 개선 제안이 가능하며, 여러분의 의견을 환영합니다!
+이 프로젝트는 학습 목적으로 만들어졌습니다. 
+
+Pull Request나 Issue를 통해 개선 제안이 가능하며, 여러분의 의견을 환영합니다!
 
 
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">📄 라이센스</h2>
 
-이 프로젝트는 MIT 라이센스를 따르며, 자유롭게 사용하실 수 있습니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+이 프로젝트는 MIT 라이센스를 따르며, 자유롭게 사용하실 수 있습니다. 
+
+자세한 내용은 LICENSE 파일을 참고하세요.
 
 
 <p style="font-size: 1.5em; text-align: center;">✨ Happy Coding! ✨</p>
